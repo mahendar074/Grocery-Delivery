@@ -1,0 +1,2 @@
+root: C:\Users\Uday\Downloads\Grocery-Delivery-App-Frontend-master\Grocery Delivery\nvm
+path: C:\Users\Uday\Downloads\Grocery-Delivery-App-Frontend-master\Grocery Delivery\nodejs
